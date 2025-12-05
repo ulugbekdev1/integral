@@ -99,7 +99,7 @@ export default function IntegralCalculator() {
         boxSizing: "border-box"
       }}>
         <h1 style={{ textAlign: "center", fontSize: "24px", fontWeight: "bold", marginBottom: "20px" }}>
-          Gauss–Legendre Integral Kalkulyatori
+          Gauss Integral Kalkulyatori
         </h1>
 
         <label style={{ fontWeight: "bold" }}>f(x):</label>
