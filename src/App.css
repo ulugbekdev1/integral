@@ -1,0 +1,11 @@
+.layout {
+  display: flex;
+}
+
+.content {
+  margin-left: 240px;
+  width: calc(100% - 240px);
+  padding: 25px;
+  background: #f3f4f6;
+  min-height: 100vh;
+}
